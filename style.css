@@ -1,0 +1,53 @@
+.jumbotron {
+  background-color: #a2d9ff;
+}
+
+.project {
+  background-color: #a2d9ff;
+}
+
+footer {
+  background-color: #0099ff;
+}
+
+#satu {
+  background-color: rgb(132, 176, 233);
+}
+
+.kotak img {
+  margin-top: 10px;
+}
+
+.kotak {
+  border-top: 5px solid skyblue;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 20px;
+  transition: 0.3s;
+}
+
+.kotak:hover {
+  box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.6);
+}
+
+.foto {
+  transition: 1s;
+}
+
+.foto:hover {
+  scale: 1.2;
+  rotate: 10deg;
+}
+
+.text {
+  transition: 1s;
+}
+
+.text {
+  transition: 1s;
+}
+
+.text:hover {
+  background-color: skyblue;
+  font-size: 20px;
+}
